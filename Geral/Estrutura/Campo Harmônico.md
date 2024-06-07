@@ -1,4 +1,4 @@
-![[Pasted image 20240607114645.png]]
+![](../Images.)
 
 # **O que é?**
 
