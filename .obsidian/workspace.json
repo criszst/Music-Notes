@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "97c2bda3e24cb4ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "043d7bb940ae10e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a6f7486a0bc9c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebb419111a0eb46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a031a09eb39bbcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b67dba3631da01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8277a01e2e1dd6b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a882d30caa868131",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b5a34b4b92750ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f706d8a66d3e23b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1690ab3736f3265c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5153d4587ad71825",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ad72ead332a2dc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbec9d818bb75cd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.md"
+              }
+            }
+          },
+          {
+            "id": "3af9e0db7ebcbe95",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "94b67dba3631da01",
+  "lastOpenFiles": [
+    "Geral/Estrutura/Campo Harmônico.md",
+    "Sem título.md",
+    "Geral/Escala Cromática.md",
+    "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
+    "Geral/Formação de Escalas/Formação de Escalas Menores.md",
+    "Welcome.md",
+    "Geral/Formação de Escalas",
+    "Geral/Estrutura",
+    "Geral/Escalas",
+    "Guitar",
+    "Geral"
+  ]
+}
