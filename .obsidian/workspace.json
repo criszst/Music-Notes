@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md"
+                "file": "Geral/Estrutura/Campo Harmônico.md"
               }
             }
           },
@@ -153,10 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b67dba3631da01",
+  "active": "77a6f7486a0bc9c2",
   "lastOpenFiles": [
-    "Geral/Estrutura/Campo Harmônico.md",
     "Sem título.md",
+    "Geral/Estrutura/Campo Harmônico.md",
     "Geral/Escala Cromática.md",
     "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Geral/Formação de Escalas/Formação de Escalas Menores.md",
