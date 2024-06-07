@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiImage",
       "FasGuitar",
       "TiScale",
       "SiInstructure",
-      "OcGear16",
-      "🎸"
+      "OcGear16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,9 @@
   "Geral/Formação de Escalas": {
     "iconName": "TiScale",
     "iconColor": "#8d3cc3"
+  },
+  "Images": {
+    "iconName": "FiImage",
+    "iconColor": "#f2f2f2"
   }
 }

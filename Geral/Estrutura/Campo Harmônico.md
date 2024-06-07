@@ -1,3 +1,5 @@
+![[Pasted image 20240607114645.png]]
+
 # **O que é?**
 
 Campo Harmônico é um conjunto de acordes que formam uma harmonia - são os acordes da escala em questão. Ele ajuda a saber quais acordes devem ser utilizados e o motivo dos shapes dos acordes serem assim. Nele, existem quatro tipos de [[#Triades]]:
@@ -5,7 +7,7 @@ Campo Harmônico é um conjunto de acordes que formam uma harmonia - são os aco
 
 # **Tríades**
 
-A tríade é um conjunto harmônico formado por 3 notas musicas (ou 3 intervalos). Com ela, é possível saber que notas formam determinado acorde.
+A tríade é um conjunto harmônico formado por 3 notas musicas (ou 3 intervalos). Com ela, é possível saber que notas formam determinado acorde. Para fazer uma triade, pegamos uma nota da [[Escala Cromática]] e pulamos 3 notas.
 
 Por exemplo, quando fazemos o acorde de C (Dó), estamos usando as notas C, E, G ( Dó, Mi e Sol ).
 
