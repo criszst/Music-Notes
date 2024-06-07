@@ -1,4 +1,4 @@
-![](../Images.)
+![](../../Images/Geral/Estrutura/Pasted%20image%2020240607114645.png)
 
 # **O que é?**
 
