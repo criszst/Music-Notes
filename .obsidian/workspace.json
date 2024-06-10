@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Escala Cromática.md",
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "878c66677a918b27",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ce8e87c4d743054",
+  "active": "77a6f7486a0bc9c2",
   "lastOpenFiles": [
+    "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Geral/Escala Cromática.md",
     "Geral/Estrutura/Campo Harmônico.md",
     "Images/Geral/Pasted image 20240607115109.png",
@@ -180,7 +190,6 @@
     "Images/Geral",
     "Images",
     "Sem título.md",
-    "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Geral/Formação de Escalas/Formação de Escalas Menores.md",
     "Welcome.md",
     "Geral/Formação de Escalas",
