@@ -29,9 +29,22 @@ Acordes que são formados por uma tríade maior:
 
 ### Tríade Menor
 É formada pelos graus: **tônica (1º maior, 3º menor e quinta justa.**
+Acordes que são formados por uma tríade menor:
+
+| Acorde/Shape  | Cifra     | Nome               |
+| ------------- | --------- | ------------------ |
+| Cm - Dó menor | C, Mib, G | Dó, Mi Bemol e Sol |
+
 
 ### Tríade Diminuta
 É formada pelos graus: **tônica (1º maior, 3º menor e quinta diminuta.**
+
+Acordes que são formados por uma tríade diminuta:
+
+| Acorde/Shape     | Cifra      | Nome                     |
+| ---------------- | ---------- | ------------------------ |
+| C° - Dó diminuto | C, Mib, Gb | Dó, Mi Bemol e Sol bemol |
+
 
 ### Tríade aumentada
 É formada pelos graus: **tônica (1º maior, 3º maior e quinta aumentada.**
