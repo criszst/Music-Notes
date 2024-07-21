@@ -8,53 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77a6f7486a0bc9c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5a7105fe60aefd8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "8a0509021fee9645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geral/Acordes/Acordes Relativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "863fd0d6aa5c197d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "8ce8e87c4d743054",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Geral/Estrutura/Campo Harmônico.md",
@@ -62,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "878c66677a918b27",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/Acordes/Acordes Relativos.md",
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geral/Acordes/Acordes Relativos.md",
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geral/Acordes/Acordes Relativos.md"
+                "file": "Geral/Estrutura/Campo Harmônico.md"
               }
             }
           },
@@ -193,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -211,13 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "863fd0d6aa5c197d",
+  "active": "3af9e0db7ebcbe95",
   "lastOpenFiles": [
+    "Geral/Escala Cromática.md",
+    "Geral/Formação de Escalas/Formação de Escalas Menores.md",
+    "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Geral/Estrutura/Campo Harmônico.md",
     "Geral/Acordes/Acordes Relativos.md",
     "Geral/Acordes",
-    "Geral/Escala Cromática.md",
-    "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Images/Geral/Pasted image 20240607115109.png",
     "Images/Geral/Estrutura/Pasted image 20240607114645.png",
     "Images/Geral/Pasted image 20240607114950.png",
@@ -225,7 +171,6 @@
     "Images/Geral",
     "Images",
     "Sem título.md",
-    "Geral/Formação de Escalas/Formação de Escalas Menores.md",
     "Welcome.md",
     "Geral/Formação de Escalas",
     "Geral/Estrutura",
