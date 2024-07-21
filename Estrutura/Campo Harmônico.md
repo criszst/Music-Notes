@@ -41,9 +41,9 @@ Acordes que são formados por uma tríade menor:
 
 Acordes que são formados por uma tríade diminuta:
 
-| Acorde/Shape     | Cifra      | Nome                     |
-| ---------------- | ---------- | ------------------------ |
-| C° - Dó diminuto | C, Mib, Gb | Dó, Mi Bemol e Sol bemol |
+| Acorde/Shape     | Cifra                                                               | Nome                     |
+| ---------------- | ------------------------------------------------------------------- | ------------------------ |
+| C° - Dó diminuto | C, Mib (Mi - meio tom = mi bemol), Gb ( sol - meio tom = sol bemol) | Dó, Mi Bemol e Sol bemol |
 
 
 ### Tríade aumentada

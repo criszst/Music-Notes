@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "file": "Estrutura/Campo Harmônico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "file": "Estrutura/Campo Harmônico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "file": "Estrutura/Campo Harmônico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md"
+                "file": "Estrutura/Campo Harmônico.md"
               }
             }
           },
@@ -156,14 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3af9e0db7ebcbe95",
+  "active": "94b67dba3631da01",
   "lastOpenFiles": [
-    "Geral/Escala Cromática.md",
-    "Geral/Formação de Escalas/Formação de Escalas Menores.md",
-    "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
-    "Geral/Estrutura/Campo Harmônico.md",
-    "Geral/Acordes/Acordes Relativos.md",
-    "Geral/Acordes",
+    "Formação de Escalas/Escala Cromática.md",
+    "Formação de Escalas/Formação de Escalas Menores.md",
+    "Formação de Escalas/Formação de Escalas Maiores.md",
+    "Estrutura/Campo Harmônico.md",
+    "Acordes/Acordes Relativos.md",
+    "Acordes",
     "Images/Geral/Pasted image 20240607115109.png",
     "Images/Geral/Estrutura/Pasted image 20240607114645.png",
     "Images/Geral/Pasted image 20240607114950.png",
@@ -172,8 +172,8 @@
     "Images",
     "Sem título.md",
     "Welcome.md",
-    "Geral/Formação de Escalas",
-    "Geral/Estrutura",
+    "Formação de Escalas",
+    "Estrutura",
     "Geral/Escalas",
     "Guitar",
     "Geral"

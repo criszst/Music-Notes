@@ -40,16 +40,16 @@
     "iconName": "FasGuitar",
     "iconColor": "#d4112e"
   },
-  "Geral/Estrutura": {
-    "iconName": "SiInstructure",
-    "iconColor": "#9831dd"
-  },
-  "Geral/Formação de Escalas": {
-    "iconName": "TiScale",
-    "iconColor": "#8d3cc3"
-  },
   "Images": {
     "iconName": "FiImage",
     "iconColor": "#f2f2f2"
+  },
+  "Estrutura": {
+    "iconName": "SiInstructure",
+    "iconColor": "#9831dd"
+  },
+  "Formação de Escalas": {
+    "iconName": "TiScale",
+    "iconColor": "#8d3cc3"
   }
 }
