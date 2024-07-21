@@ -22,16 +22,17 @@ Com ela, é possível saber que notas formam determinado acorde. Para fazer uma 
 
 Acordes que são formados por uma tríade maior:
 
-| Acorde/Shape | Cifra   | Nome         |
-| ------------ | ------- | ------------ |
-| C - DÓ       | C, E, G | Dó, Mi e Sol |
+| Acorde/Shape      | Cifra   | Nome         |
+| ----------------- | ------- | ------------ |
+| C - DÓ (Dó maior) | C, E, G | Dó, Mi e Sol |
 
 
 ### Tríade Menor
 É formada pelos graus: **tônica (1º maior, 3º menor e quinta justa.**
 
+### Tríade Diminuta
+É formada pelos graus: **tônica (1º maior, 3º menor e quinta diminuta.**
+
 ### Tríade aumentada
 É formada pelos graus: **tônica (1º maior, 3º maior e quinta aumentada.**
 
-### Tríade Diminuta
-É formada pelos graus: **tônica (1º maior, 3º menor e quinta diminuta.**
