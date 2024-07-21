@@ -63,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -181,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94b67dba3631da01",
+  "active": "0b7b910dbe76b867",
   "lastOpenFiles": [
     "Estrutura/Triades.md",
     "Estrutura/Tétrades.md",
