@@ -35,9 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "file": "Geral/Acordes/Acordes Relativos.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "863fd0d6aa5c197d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
               }
             }
           },
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "file": "Geral/Acordes/Acordes Relativos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md",
+                "file": "Geral/Acordes/Acordes Relativos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geral/Estrutura/Campo Harmônico.md"
+                "file": "Geral/Acordes/Acordes Relativos.md"
               }
             }
           },
@@ -201,11 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a0509021fee9645",
+  "active": "863fd0d6aa5c197d",
   "lastOpenFiles": [
+    "Geral/Estrutura/Campo Harmônico.md",
+    "Geral/Acordes/Acordes Relativos.md",
     "Geral/Acordes",
     "Geral/Escala Cromática.md",
-    "Geral/Estrutura/Campo Harmônico.md",
     "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Images/Geral/Pasted image 20240607115109.png",
     "Images/Geral/Estrutura/Pasted image 20240607114645.png",
