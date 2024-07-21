@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c04e8becfeef53b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura/Triades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b7b910dbe76b867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura/Tétrades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrutura/Campo Harmônico.md",
+                "file": "Estrutura/Tétrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrutura/Campo Harmônico.md",
+                "file": "Estrutura/Tétrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrutura/Campo Harmônico.md"
+                "file": "Estrutura/Tétrades.md"
               }
             }
           },
@@ -142,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +183,13 @@
   },
   "active": "94b67dba3631da01",
   "lastOpenFiles": [
+    "Estrutura/Triades.md",
+    "Estrutura/Tétrades.md",
+    "Estrutura/Campo Harmônico.md",
     "Formação de Escalas/Escala Cromática.md",
+    "Sem título",
     "Formação de Escalas/Formação de Escalas Menores.md",
     "Formação de Escalas/Formação de Escalas Maiores.md",
-    "Estrutura/Campo Harmônico.md",
     "Acordes/Acordes Relativos.md",
     "Acordes",
     "Images/Geral/Pasted image 20240607115109.png",
@@ -169,7 +198,6 @@
     "Images/Geral/Estrutura",
     "Images/Geral",
     "Images",
-    "Sem título.md",
     "Welcome.md",
     "Formação de Escalas",
     "Estrutura",
