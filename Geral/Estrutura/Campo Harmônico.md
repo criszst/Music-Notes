@@ -49,3 +49,8 @@ Acordes que são formados por uma tríade diminuta:
 ### Tríade aumentada
 É formada pelos graus: **tônica (1º maior, 3º maior e quinta aumentada.**
 
+Acordes que são formados por uma tríade aumentada:
+
+| Acorde/Shape      | Cifra     | Nome                   |
+| ----------------- | --------- | ---------------------- |
+| C+ - Dó aumentado | C, Mi, G# | Dó, Mi e Sol sustenido |
