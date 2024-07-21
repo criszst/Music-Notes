@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Escala Cromática.md",
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/Escala Cromática.md",
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geral/Escala Cromática.md",
+                "file": "Geral/Estrutura/Campo Harmônico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geral/Escala Cromática.md"
+                "file": "Geral/Estrutura/Campo Harmônico.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "8a0509021fee9645",
   "lastOpenFiles": [
-    "Geral/Estrutura/Campo Harmônico.md",
+    "Geral/Acordes",
     "Geral/Escala Cromática.md",
+    "Geral/Estrutura/Campo Harmônico.md",
     "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Images/Geral/Pasted image 20240607115109.png",
     "Images/Geral/Estrutura/Pasted image 20240607114645.png",
