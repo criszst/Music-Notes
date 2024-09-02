@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMusic",
       "FiImage",
       "FasGuitar",
       "TiScale",
-      "SiInstructure",
-      "OcGear16"
+      "SiInstructure"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
   },
   "Geral": {
     "iconName": "OcGear16",
-    "iconColor": "#9600fa"
+    "iconColor": "#8ee690"
   },
   "Guitar": {
     "iconName": "FasGuitar",
@@ -46,10 +46,14 @@
   },
   "Estrutura": {
     "iconName": "SiInstructure",
-    "iconColor": "#9831dd"
+    "iconColor": "#4531dd"
   },
   "Formação de Escalas": {
     "iconName": "TiScale",
-    "iconColor": "#8d3cc3"
+    "iconColor": "#d129a4"
+  },
+  "Acordes": {
+    "iconName": "LiMusic",
+    "iconColor": "#d44065"
   }
 }

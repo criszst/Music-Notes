@@ -11,11 +11,9 @@
             "id": "863fd0d6aa5c197d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Acordes/Inversão de Acordes.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Geral/Estrutura/Pasted image 20240607114645.png"
               }
             }
           },
@@ -23,12 +21,8 @@
             "id": "8c04e8becfeef53b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrutura/Triades.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -55,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acordes/Inversão de Acordes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acordes/Inversão de Acordes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Acordes/Inversão de Acordes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,20 +183,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "863fd0d6aa5c197d",
+  "active": "8c04e8becfeef53b",
   "lastOpenFiles": [
-    "Estrutura/Campo Harmônico.md",
+    "Acordes/Inversão de Acordes.md",
     "Acordes/Acordes Relativos.md",
     "Estrutura/Triades.md",
-    "Acordes/Inversão de Acordes.md",
+    "Images/Geral/Estrutura/Pasted image 20240607114645.png",
+    "Images/Geral/Pasted image 20240607115109.png",
+    "Estrutura/Campo Harmônico.md",
     "Estrutura/Tétrades.md",
     "Formação de Escalas/Escala Cromática.md",
     "Sem título",
     "Formação de Escalas/Formação de Escalas Menores.md",
     "Formação de Escalas/Formação de Escalas Maiores.md",
     "Acordes",
-    "Images/Geral/Pasted image 20240607115109.png",
-    "Images/Geral/Estrutura/Pasted image 20240607114645.png",
     "Images/Geral/Pasted image 20240607114950.png",
     "Images/Geral/Estrutura",
     "Images/Geral",
