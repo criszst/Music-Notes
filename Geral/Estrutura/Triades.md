@@ -1,5 +1,5 @@
 
-A tríade é um[[#]] formado por 3 notas musicas (ou 3 intervalos). 
+A tríade é um [[Campo Harmônico|conjunto harmônico]] formado por 3 notas musicas (ou 3 intervalos). 
 Em si, é um acorde que é formado por apenas 3 notas ( tri - 3)
 
 
