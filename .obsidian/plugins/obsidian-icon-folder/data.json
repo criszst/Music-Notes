@@ -44,15 +44,15 @@
     "iconName": "FiImage",
     "iconColor": "#f2f2f2"
   },
-  "Estrutura": {
-    "iconName": "SiInstructure",
-    "iconColor": "#4531dd"
-  },
-  "Formação de Escalas": {
+  "Geral/Formação de Escalas": {
     "iconName": "TiScale",
     "iconColor": "#d129a4"
   },
-  "Acordes": {
+  "Geral/Estrutura": {
+    "iconName": "SiInstructure",
+    "iconColor": "#4531dd"
+  },
+  "Geral/Acordes": {
     "iconName": "LiMusic",
     "iconColor": "#d44065"
   }

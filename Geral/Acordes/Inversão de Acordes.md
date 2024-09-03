@@ -1,5 +1,3 @@
-
-## O que é?
 **É uma técnica utilizada na música para alterar a ordem das notas de um acorde, mantendo as mesmas notas, porém em posições diferentes.
 
 ## **1ª inversão de acordes**
