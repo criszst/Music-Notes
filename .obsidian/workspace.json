@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geral/Acordes/Inversão de Acordes.md",
+                "file": "Geral/Acordes/Transposição.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/Acordes/Inversão de Acordes.md",
+                "file": "Geral/Acordes/Transposição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geral/Acordes/Inversão de Acordes.md",
+                "file": "Geral/Acordes/Transposição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geral/Acordes/Inversão de Acordes.md"
+                "file": "Geral/Acordes/Transposição.md"
               }
             }
           },
@@ -169,16 +169,17 @@
   },
   "active": "b5b19888d28baea9",
   "lastOpenFiles": [
+    "Geral/Acordes/Inversão de Acordes.md",
+    "Geral/Acordes/Transposição.md",
+    "Transposição",
     "Geral/Acordes/Acordes Relativos.md",
     "Geral/Estrutura/Triades.md",
     "Images/Geral/Estrutura/Pasted image 20240607114645.png",
     "conjunto harmônico.md",
     "Geral/Estrutura/Campo Harmônico.md",
     "Geral/Estrutura/Tétrades.md",
-    "Geral/Acordes/Inversão de Acordes.md",
     "Images/Geral/Pasted image 20240607115109.png",
     "Geral/Formação de Escalas/Escala Cromática.md",
-    "Sem título",
     "Geral/Formação de Escalas/Formação de Escalas Menores.md",
     "Geral/Formação de Escalas/Formação de Escalas Maiores.md",
     "Geral/Acordes",
