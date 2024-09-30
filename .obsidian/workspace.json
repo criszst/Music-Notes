@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5b19888d28baea9",
+  "active": "94b67dba3631da01",
   "lastOpenFiles": [
     "Geral/Acordes/Inversão de Acordes.md",
     "Geral/Acordes/Transposição.md",
